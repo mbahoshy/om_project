@@ -1,0 +1,20 @@
+{
+  "name": "om_project",
+  "version": "0.0.0",
+  "authors": [
+    "mbahoshy <mbahoshy@gmail.com>"
+  ],
+  "description": "Find mechanical documentation",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.0",
+    "jquery": "~2.0.3"
+  }
+}
